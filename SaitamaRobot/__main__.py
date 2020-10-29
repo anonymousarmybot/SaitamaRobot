@@ -77,9 +77,9 @@ And the following:
 
 SAITAMA_IMG = "https://telegra.ph/file/384f01db5fd3ad7a3c905.jpg"
 
-DONATE_STRING = """Heya, glad to hear you want to donate! join @nidhisupportchat , 
+DONATE_STRING = ""Heya, glad to hear you want to donate! join @nidhisupportchat , 
 Currently we have no need of donations.
-thanks for using me"""
+thanks for using me""
 
 IMPORTED = {}
 MIGRATEABLE = []
