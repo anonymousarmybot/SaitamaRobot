@@ -52,12 +52,12 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-Hey!! {}, my name is {}! 
+Hey!! {}, my name is **Nidhi**! 
 A Group management bot by @ajuisback
 add me in your groups
 
 HELP_STRINGS = """
-Hey there! My name is *{}*.
+Hey there! My name is **Nidhi**.
 I'm a group management bot, currently running in testing mode join @nidhisupportchat
 
 *Main* commands available:
