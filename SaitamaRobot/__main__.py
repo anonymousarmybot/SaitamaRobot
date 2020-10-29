@@ -55,6 +55,7 @@ PM_START_TEXT = """
 Hey!! {}, my name is **Nidhi**! 
 A Group management bot by @ajuisback
 add me in your groups
+"""
 
 HELP_STRINGS = """
 Hey there! My name is **Nidhi**.
